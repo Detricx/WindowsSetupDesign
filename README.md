@@ -203,9 +203,3 @@ Windows Registry Editor Version 5.00
 Distribuído sob a licença MIT. Consulta o ficheiro `LICENSE` para mais informações.
 
 ---
-
-<div align="center">
-
-Feito por [Diogo Cancio](https://github.com/DetricX)
-
-</div>
